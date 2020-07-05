@@ -1,9 +1,7 @@
 # Start Python
 
 ## Hello-world
-My first repository on GitHub.
-
-
+  การเริ่มต้นเขียนโปรแกรมด้วยภาษาไพธอน (Python)
 
 ```python
 print("Hello World Python.")
